@@ -26,7 +26,10 @@ and I'm interested in frontend architecture, performance, and scalable design.
 - **BrainTumorNet**: graduation project for brain tumor detection from MRI scans (React, Node.js, FastAPI, Grad-CAM). [Video demo](https://drive.google.com/file/d/11TpUo2lFo1OmT-_2twQC8BVzW_2XgaEK/view?usp=sharing)
 
 ## Stats
-![Stats](https://github-readme-stats-nine-delta-50.vercel.app/api?username=Abdalluh28&show_icons=true)
+<div align="center">
+  <img src="https://github-readme-stats-nine-delta-50.vercel.app/api?username=Abdalluh28&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdalluh28&theme=tokyonight" alt="Streak" />
+</div>
 
 ## Links
 [Portfolio](https://portfolio-ws1l.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/abdo-khaled-34235b283/) · [LeetCode](https://leetcode.com/u/abdok7496/)
