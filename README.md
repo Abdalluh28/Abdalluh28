@@ -28,7 +28,7 @@ and I'm interested in frontend architecture, performance, and scalable design.
 ## Stats
 <div align="center">
   <img src="https://github-readme-stats-nine-delta-50.vercel.app/api?username=Abdalluh28&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdalluh28&theme=tokyonight" alt="Streak" />
+  <img src="https://github-readme-streak-stats-chi-liard.vercel.app/?user=Abdalluh28&theme=tokyonight" alt="Streak" />
 </div>
 
 ## Links
