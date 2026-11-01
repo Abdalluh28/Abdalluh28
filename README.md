@@ -22,14 +22,9 @@ and I'm interested in frontend architecture, performance, and scalable design.
 | Itqan-community/cms-frontend | Preserve the original destination after login redirect | [#241](https://github.com/Itqan-community/cms-frontend/pull/241) |
 
 ## Projects
-- **Al-Fakahany**: mobile-first Arabic Q-commerce platform for fresh produce (React, TypeScript, Spring Boot, PostgreSQL) with real-time inventory, low-stock alerts, and an admin suite for orders, payments, promo codes, and reports. [Live demo](https://al-fakahany.azal.digital/)
+- **Al-Fakahany**: mobile-first Arabic Q-commerce platform for fresh produce (React, TypeScript, Spring Boot, PostgreSQL) with real-time inventory, low-stock alerts, and an admin suite for orders, payments, promo codes, and reports. [Video demo]([https://al-fakahany.azal.digital/](https://drive.google.com/file/d/19p43B3T60A5VpSwhTZwjiBHHSHkrInx_/view?usp=drive_link))
 - **BrainTumorNet**: graduation project for brain tumor detection from MRI scans (React, Node.js, FastAPI, Grad-CAM). [Video demo](https://drive.google.com/file/d/11TpUo2lFo1OmT-_2twQC8BVzW_2XgaEK/view?usp=sharing)
 
-## Stats
-<div align="center">
-  <img src="https://github-readme-stats-nine-delta-50.vercel.app/api?username=Abdalluh28&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img src="https://github-readme-streak-stats-chi-liard.vercel.app/?user=Abdalluh28&theme=tokyonight" alt="Streak" />
-</div>
 
 ## Links
 [Portfolio](https://portfolio-ws1l.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/abdo-khaled-34235b283/) · [LeetCode](https://leetcode.com/u/abdok7496/)
